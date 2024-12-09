@@ -1,6 +1,6 @@
 <div align="center">
   <img width="100" height="100" src="https://avatars.githubusercontent.com/u/190339082">
-  <h2>𐬺 Tinyo Dashboard</h2>
+  <h2>𐬺 Tinyo CTL K8s</h2>
   <h5>Just orchestrate.</h5>
   <p align="center">
     <a href="https://github.com/pure-linux/tinyo#benchmark"><b>Why</b></a> •
